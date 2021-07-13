@@ -1,0 +1,9 @@
+      {toggle
+        ? showDB.map((item, value) => (
+            <div key={value} className="listPlace">
+              {" "}
+              <h3> {item} </h3> <p>{showRating[value]} </p>
+              {/* {`${item} ${showRating[value]}`}{" "} */}
+            </div>
+          ))
+        : null}

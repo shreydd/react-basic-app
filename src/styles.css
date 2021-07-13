@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap");
+
+.App {
+  max-width: 600px;
+  font-family: "Ubuntu", bold;
+  text-align: left;
+  padding: 1rem;
+  /* text-align: center; */
+  justify-content: center;
+  margin: auto;
+}
+button {
+  padding: 0.5rem;
+  margin: 10px;
+  border-style: none;
+  border: 1px solid black;
+  border-radius: 0.5rem;
+}
+
+button:hover {
+  background: white;
+  cursor: pointer;
+}
+
+div {
+  margin: 20px;
+  margin-left: 0px;
+  justify-content: left;
+}
+
+.listPlace {
+  padding: 1rem;
+  /* color: red; */
+  border: 1px solid black;
+  border-radius: 0.5rem;
+}
