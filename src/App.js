@@ -45,10 +45,6 @@ export default function App() {
     setToggle(toggle);
   };
 
-  // const toggleList = () => {
-  //   setToggle(true);
-  // };
-
   return (
     <div className="App">
       <h2 className="Heading">
