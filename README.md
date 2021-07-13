@@ -1,2 +1,2 @@
-# mini-react
-Created with CodeSandbox
+# Recommendations
+Created with CodeSandbox, A react based basic application
