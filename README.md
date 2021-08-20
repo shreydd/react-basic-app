@@ -1,2 +1,3 @@
 # Recommendations
-Created with CodeSandbox, A react based basic application
+
+A basic ReactJs application to list my recommendations in few categories
